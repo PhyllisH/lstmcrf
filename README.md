@@ -1,5 +1,5 @@
 # lstmcrf
-
+Name Entity Recogiration and Sentiment Analysis (Open Tagert ...) with blstm + crf model  
 ##pipeline model 
 model_lstm.py: blstm + crf + dense feature  
 pipe_dense_ner_train.py: train file for ner  
